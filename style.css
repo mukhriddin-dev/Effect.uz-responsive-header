@@ -428,7 +428,7 @@
       width: 170px;
       position: relative;
       top: -2px;
-      left:56%;
+      left:70%;
       display: block;
       margin: 0 auto;
 
@@ -571,7 +571,7 @@
       height: 36px;
       position: relative;
       top: 0px;
-      left: 195px;
+      left: 175px;
       background-color: rgb(255, 255, 255);
       /* overflow: hidden; */
     }
