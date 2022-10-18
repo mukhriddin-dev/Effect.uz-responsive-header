@@ -464,6 +464,7 @@
     .nav-menu .nav-menu--ul .nav-links {
       margin-top: 10px;
       position: relative;
+      
     }
   
     .nav-menu .nav-menu--ul .nav-links .nav-menu-link {
@@ -471,6 +472,8 @@
       text-decoration: none;
       font-weight: 600;
       margin-left: 10px;
+      font-size: 20px;
+      margin-top: 10px;
     }
     .nav-menu .nav-menu--ul .nav-links .nav-menu-link:hover {
       color: #fff695;
