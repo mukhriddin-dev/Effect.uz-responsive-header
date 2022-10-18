@@ -239,7 +239,7 @@
   height: 36px;
   position: relative;
   top: 0px;
-  left: 65px;
+  left: 85px;
   background-color: rgb(255, 255, 255);
   /* overflow: hidden; */
 }
@@ -428,7 +428,7 @@
       width: 170px;
       position: relative;
       top: -2px;
-      left:65%;
+      left:56%;
       display: block;
       margin: 0 auto;
 
