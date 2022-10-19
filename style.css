@@ -5,6 +5,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+.slidehide{
+  transform: translateY(-200%);
+}
+
 .conatiner {
   max-width: 1440px;
   margin: 0 auto;
@@ -456,6 +460,7 @@
       background-size: cover;
       background-repeat: no-repeat;
       min-height: 100vh;
+      transition: all 0.2s linear;
     }
   
     .nav-menu .nav-menu--ul::after {
